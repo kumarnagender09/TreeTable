@@ -67,7 +67,7 @@ TreeviewProject
 6. **Supporting Files**: Contains the `AppDelegate` and other supporting files for your project.
 
 <div style="display: flex;">
-    <img src="TreeTable,png" alt="alt text" width="200">
+    <img src="TreeTable.png" alt="alt text" width="200">
 </div>
 
 You can adjust this structure based on the complexity and size of your project. For example, you might create separate folders for protocols, extensions, or networking components if needed.
