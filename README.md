@@ -1,5 +1,3 @@
-To create a basic Markdown (MD) file about a TreeView in Swift for iOS, you can include information such as:
-
 # TreeView in Swift iOS
 
 A TreeView is a hierarchical representation of data that allows users to expand and collapse nodes to navigate through the hierarchy. In Swift for iOS, a common approach to implementing a TreeView is by using a UITableView with custom cells.
