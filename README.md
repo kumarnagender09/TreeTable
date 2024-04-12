@@ -45,10 +45,13 @@ TreeviewProject
 │   └── TreeViewCell.swift
 ├── Controllers
 │   └── TreeViewController.swift
+├── Data
+│   └── TreeData.json
 ├── Resources
 │   └── Main.storyboard
 └── Supporting Files
     └── AppDelegate.swift
+
 ```
 
 1. **Models**: This folder contains the `TreeNode` struct or class that represents a node in your tree structure.
@@ -57,9 +60,11 @@ TreeviewProject
 
 3. **Controllers**: The `TreeViewController` class, which manages the TreeView, is located here.
 
-4. **Resources**: Storyboard files (like `Main.storyboard`) or any other resources used in your project.
+4. **Data**: The TreeJson.json file would contain the hierarchical data that represents the structure of your TreeView. For example, it might look like this.
 
-5. **Supporting Files**: Contains the `AppDelegate` and other supporting files for your project.
+5. **Resources**: Storyboard files (like `Main.storyboard`) or any other resources used in your project.
+
+6. **Supporting Files**: Contains the `AppDelegate` and other supporting files for your project.
 
 You can adjust this structure based on the complexity and size of your project. For example, you might create separate folders for protocols, extensions, or networking components if needed.
 
