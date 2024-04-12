@@ -1,0 +1,489 @@
+{
+  "templates": {
+    "name": "/",
+    "items": [
+      {
+        "name": "en-CA",
+        "items": [
+          {
+            "name": "Auto",
+            "items": [
+              {
+                "name": "Auto - First Report.docx",
+                "items": []
+              },
+              {
+                "name": "Auto - Status Report.docx",
+                "items": []
+              },
+              {
+                "name": "Auto - Task Report.docx",
+                "items": []
+              },
+              {
+                "name": "Automobile Report.docx",
+                "items": []
+              }
+            ]
+          },
+          {
+            "name": "Casualty",
+            "items": [
+              {
+                "name": "Letters",
+                "items": [
+                  {
+                    "name": "AB - Status Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "AB - Task Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "AB TL - Insd Retain Salvage.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "AB TL - to Broker - Retain Salvage.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Airbnb report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Closing Letter - Auto - No Injury.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Closing Letter - Auto - Not Pursuing Claim.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Denial Letter Occupier's Liability.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Denial Letter-Non Occupier.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Final Release Letter - Claimant.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Letter to third party.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Response to Claimants Notice of BI Claim.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Response to Solicitors Notice Of BI Claim.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Wal-Mart Denial of Negligence Letter.docx",
+                    "items": []
+                  }
+                ]
+              },
+              {
+                "name": "Reports",
+                "items": [
+                  {
+                    "name": "AB - First Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Casualty - Status Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Casualty - Task Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Casualty Full Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Examiner's Report - Liability - Lloyds.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "TPA Large Loss Report.docx",
+                    "items": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Development ",
+            "items": [
+              {
+                "name": "Dev",
+                "items": [
+                  {
+                    "name": "Auto",
+                    "items": []
+                  },
+                  {
+                    "name": "Casualty",
+                    "items": [
+                      {
+                        "name": "Letters",
+                        "items": []
+                      },
+                      {
+                        "name": "Reports",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Forms",
+                    "items": []
+                  },
+                  {
+                    "name": "GTS",
+                    "items": [
+                      {
+                        "name": "Letter",
+                        "items": []
+                      },
+                      {
+                        "name": "Property",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PhotoReport.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Property",
+                    "items": [
+                      {
+                        "name": "Letters",
+                        "items": []
+                      },
+                      {
+                        "name": "Reports",
+                        "items": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "QA Approved",
+                "items": []
+              },
+              {
+                "name": "QA",
+                "items": [
+                  {
+                    "name": "33. Critical Path Letter GTS.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "40. Police Report Letter.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "49. AB Critical Path letter - PEI.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "50. AB Death Benefit letter - NFLD.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "51. AB Death Benefit letter SEF 48 - NS.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "56. Property First Report GTS.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "62. Blank Denial Template.docx",
+                    "items": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Forms",
+            "items": [
+              {
+                "name": "24HR Action Notice-Apr2021.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization - Enter Premises.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization - Release of Employment Information.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization - Release of Medical Records.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization - Release of WSIB Records.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization Form for Medical Information.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization for Employer Information.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization for Medical Information.docx",
+                "items": []
+              },
+              {
+                "name": "Authorization for Release of OHIP.docx",
+                "items": []
+              },
+              {
+                "name": "Auto Proof of Loss - Tractor Trailer.docx",
+                "items": []
+              },
+              {
+                "name": "Aviva Cheque Request.docx",
+                "items": []
+              },
+              {
+                "name": "Bodily Injury Questionnaire.docx",
+                "items": []
+              },
+              {
+                "name": "Final Release Cover Letter.docx",
+                "items": []
+              },
+              {
+                "name": "GIGG DERE letter.docx",
+                "items": []
+              },
+              {
+                "name": "Letter Requesting Medical Information.docx",
+                "items": []
+              },
+              {
+                "name": "PIPEDA - General.docx",
+                "items": []
+              },
+              {
+                "name": "Police Report Request.docx",
+                "items": []
+              },
+              {
+                "name": "ROR General Form.docx",
+                "items": []
+              },
+              {
+                "name": "TPA Privacy Written Consent.docx",
+                "items": []
+              }
+            ]
+          },
+          {
+            "name": "Motor",
+            "items": [
+              {
+                "name": "Conditional Testv2.docx",
+                "items": []
+              },
+              {
+                "name": "Level_1_Preliminary_Inspection_Output.docx",
+                "items": []
+              },
+              {
+                "name": "Recipient.docx",
+                "items": []
+              }
+            ]
+          },
+          {
+            "name": "PhotoReport.docx",
+            "items": []
+          },
+          {
+            "name": "Property",
+            "items": [
+              {
+                "name": "Letters",
+                "items": [
+                  {
+                    "name": "AB TL - Send Files to TP Direct - Owner Retained.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Airbnb HPI Report.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Blank Letter -Claim Services.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Blank Letterhead - GTS.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "CMS Critical Path Letter.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Critical Path Letter - Water No Covered.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Draft Denial Letter Property.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Mold Contamination Letter.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "No Claim Letter.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Sail critical path letter.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Subrogation Letter.docx",
+                    "items": []
+                  }
+                ]
+              },
+              {
+                "name": "Reports",
+                "items": [
+                  {
+                    "name": "Atlas Mobile Prelim Report template.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Basic Task Report Template.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Crawford Transportation Report - new July 2014.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Examiner Report - Property.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Examiner's Report - Property - Lloyds.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Property Full Report Template.docx",
+                    "items": []
+                  },
+                  {
+                    "name": "Transportation Report.docx",
+                    "items": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "SmartSections",
+            "items": [
+              {
+                "name": "AdjusterSignature.docx",
+                "items": []
+              },
+              {
+                "name": "BrokerNameAddress.docx",
+                "items": []
+              },
+              {
+                "name": "ClaimantNameAddress.docx",
+                "items": []
+              },
+              {
+                "name": "ClaimantsName.docx",
+                "items": []
+              },
+              {
+                "name": "InsuredHeader.docx",
+                "items": []
+              },
+              {
+                "name": "InsuredName.docx",
+                "items": []
+              },
+              {
+                "name": "InsuredNameAddress.docx",
+                "items": []
+              },
+              {
+                "name": "InsurerNameAddress.docx",
+                "items": []
+              },
+              {
+                "name": "KKTEMP.docx",
+                "items": []
+              },
+              {
+                "name": "LogoCrawfordBlueR.docx",
+                "items": []
+              },
+              {
+                "name": "LogoCrawfordBlurPrelim.docx",
+                "items": []
+              },
+              {
+                "name": "LogoCrawfordPhotoReport.docx",
+                "items": []
+              },
+              {
+                "name": "LossAddress.docx",
+                "items": []
+              },
+              {
+                "name": "RecipientNameAddress.docx",
+                "items": []
+              },
+              {
+                "name": "StandardFooter_Canada.docx",
+                "items": []
+              }
+            ]
+          },
+          {
+            "name": "Test",
+            "items": [
+              {
+                "name": "0-TEST TEMPLATE.docx",
+                "items": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
