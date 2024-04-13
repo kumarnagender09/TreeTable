@@ -3,118 +3,118 @@
     "name": "/",
     "items": [
       {
-        "name": "en-CA",
+        "name": "es-ES",
         "items": [
           {
-            "name": "Auto",
+            "name": "Automóvil",
             "items": [
               {
-                "name": "Auto - First Report.docx",
+                "name": "Informe de Primera Vez del Automóvil.docx",
                 "items": []
               },
               {
-                "name": "Auto - Status Report.docx",
+                "name": "Informe de Estado del Automóvil.docx",
                 "items": []
               },
               {
-                "name": "Auto - Task Report.docx",
+                "name": "Informe de Tarea del Automóvil.docx",
                 "items": []
               },
               {
-                "name": "Automobile Report.docx",
+                "name": "Informe de Automóvil.docx",
                 "items": []
               }
             ]
           },
           {
-            "name": "Casualty",
+            "name": "Accidente",
             "items": [
               {
-                "name": "Letters",
+                "name": "Cartas",
                 "items": [
                   {
-                    "name": "AB - Status Report.docx",
+                    "name": "AB - Informe de Estado.docx",
                     "items": []
                   },
                   {
-                    "name": "AB - Task Report.docx",
+                    "name": "AB - Informe de Tarea.docx",
                     "items": []
                   },
                   {
-                    "name": "AB TL - Insd Retain Salvage.docx",
+                    "name": "AB TL - Retener Salvamento del Asegurado.docx",
                     "items": []
                   },
                   {
-                    "name": "AB TL - to Broker - Retain Salvage.docx",
+                    "name": "AB TL - al Corredor - Retener Salvamento.docx",
                     "items": []
                   },
                   {
-                    "name": "Airbnb report.docx",
+                    "name": "Informe de Airbnb.docx",
                     "items": []
                   },
                   {
-                    "name": "Closing Letter - Auto - No Injury.docx",
+                    "name": "Carta de Cierre - Auto - Sin Lesiones.docx",
                     "items": []
                   },
                   {
-                    "name": "Closing Letter - Auto - Not Pursuing Claim.docx",
+                    "name": "Carta de Cierre - Auto - Sin Proseguir con la Reclamación.docx",
                     "items": []
                   },
                   {
-                    "name": "Denial Letter Occupier's Liability.docx",
+                    "name": "Carta de Negación - Responsabilidad del Ocupante.docx",
                     "items": []
                   },
                   {
-                    "name": "Denial Letter-Non Occupier.docx",
+                    "name": "Carta de Negación - No Ocupante.docx",
                     "items": []
                   },
                   {
-                    "name": "Final Release Letter - Claimant.docx",
+                    "name": "Carta de Liberación Final - Demandante.docx",
                     "items": []
                   },
                   {
-                    "name": "Letter to third party.docx",
+                    "name": "Carta a Terceros.docx",
                     "items": []
                   },
                   {
-                    "name": "Response to Claimants Notice of BI Claim.docx",
+                    "name": "Respuesta al Aviso de los Demandantes de Reclamación por Lesiones Corporales.docx",
                     "items": []
                   },
                   {
-                    "name": "Response to Solicitors Notice Of BI Claim.docx",
+                    "name": "Respuesta al Aviso de los Abogados de Reclamación por Lesiones Corporales.docx",
                     "items": []
                   },
                   {
-                    "name": "Wal-Mart Denial of Negligence Letter.docx",
+                    "name": "Carta de Negación de Negligencia de Wal-Mart.docx",
                     "items": []
                   }
                 ]
               },
               {
-                "name": "Reports",
+                "name": "Informes",
                 "items": [
                   {
-                    "name": "AB - First Report.docx",
+                    "name": "AB - Informe de Primera Vez.docx",
                     "items": []
                   },
                   {
-                    "name": "Casualty - Status Report.docx",
+                    "name": "Accidente - Informe de Estado.docx",
                     "items": []
                   },
                   {
-                    "name": "Casualty - Task Report.docx",
+                    "name": "Accidente - Informe de Tarea.docx",
                     "items": []
                   },
                   {
-                    "name": "Casualty Full Report.docx",
+                    "name": "Informe Completo de Accidentes.docx",
                     "items": []
                   },
                   {
-                    "name": "Examiner's Report - Liability - Lloyds.docx",
+                    "name": "Informe del Examinador - Responsabilidad - Lloyds.docx",
                     "items": []
                   },
                   {
-                    "name": "TPA Large Loss Report.docx",
+                    "name": "Informe de Pérdida Grande de TPA.docx",
                     "items": []
                   }
                 ]
@@ -122,58 +122,58 @@
             ]
           },
           {
-            "name": "Development ",
+            "name": "Desarrollo ",
             "items": [
               {
-                "name": "Dev",
+                "name": "Des",
                 "items": [
                   {
-                    "name": "Auto",
+                    "name": "Automóvil",
                     "items": []
                   },
                   {
-                    "name": "Casualty",
+                    "name": "Accidente",
                     "items": [
                       {
-                        "name": "Letters",
+                        "name": "Cartas",
                         "items": []
                       },
                       {
-                        "name": "Reports",
+                        "name": "Informes",
                         "items": []
                       }
                     ]
                   },
                   {
-                    "name": "Forms",
+                    "name": "Formularios",
                     "items": []
                   },
                   {
                     "name": "GTS",
                     "items": [
                       {
-                        "name": "Letter",
+                        "name": "Carta",
                         "items": []
                       },
                       {
-                        "name": "Property",
+                        "name": "Propiedad",
                         "items": []
                       }
                     ]
                   },
                   {
-                    "name": "PhotoReport.docx",
+                    "name": "InformeFotográfico.docx",
                     "items": []
                   },
                   {
-                    "name": "Property",
+                    "name": "Propiedad",
                     "items": [
                       {
-                        "name": "Letters",
+                        "name": "Cartas",
                         "items": []
                       },
                       {
-                        "name": "Reports",
+                        "name": "Informes",
                         "items": []
                       }
                     ]
@@ -181,38 +181,38 @@
                 ]
               },
               {
-                "name": "QA Approved",
+                "name": "QA Aprobado",
                 "items": []
               },
               {
                 "name": "QA",
                 "items": [
                   {
-                    "name": "33. Critical Path Letter GTS.docx",
+                    "name": "33. Carta de Ruta Crítica GTS.docx",
                     "items": []
                   },
                   {
-                    "name": "40. Police Report Letter.docx",
+                    "name": "40. Carta de Policía.docx",
                     "items": []
                   },
                   {
-                    "name": "49. AB Critical Path letter - PEI.docx",
+                    "name": "49. Carta de Ruta Crítica AB - PEI.docx",
                     "items": []
                   },
                   {
-                    "name": "50. AB Death Benefit letter - NFLD.docx",
+                    "name": "50. Carta de Beneficio por Muerte AB - NFLD.docx",
                     "items": []
                   },
                   {
-                    "name": "51. AB Death Benefit letter SEF 48 - NS.docx",
+                    "name": "51. Carta de Beneficio por Muerte AB SEF 48 - NS.docx",
                     "items": []
                   },
                   {
-                    "name": "56. Property First Report GTS.docx",
+                    "name": "56. Informe de Primera Vez sobre Propiedad GTS.docx",
                     "items": []
                   },
                   {
-                    "name": "62. Blank Denial Template.docx",
+                    "name": "62. Plantilla de Negación en Blanco.docx",
                     "items": []
                   }
                 ]
@@ -220,66 +220,68 @@
             ]
           },
           {
-            "name": "Forms",
+            "name": "Formularios",
             "items": [
               {
-                "name": "24HR Action Notice-Apr2021.docx",
+                "name": "Aviso de Acción 24H-Abr2021.docx",
                 "items": []
               },
               {
-                "name": "Authorization - Enter Premises.docx",
+                "name": "Autorización - Entrar en las Instalaciones.docx",
                 "items": []
               },
               {
-                "name": "Authorization - Release of Employment Information.docx",
+                "name": "Autorización - Divulgación de Información Laboral.docx",
                 "items": []
               },
               {
-                "name": "Authorization - Release of Medical Records.docx",
+                "name": "Autorización - Divulgación de Historiales Médicos.docx",
                 "items": []
               },
               {
-                "name": "Authorization - Release of WSIB Records.docx",
+                "name": "Autorización - Divulgación de Historiales de la CNESST.docx",
                 "items": []
               },
               {
-                "name": "Authorization Form for Medical Information.docx",
+                "name": "Formulario de Autorización para Información Médica.docx",
                 "items": []
               },
               {
-                "name": "Authorization for Employer Information.docx",
+                "name": "Autorización para Información del Empleador.docx",
                 "items": []
               },
               {
-                "name": "Authorization for Medical Information.docx",
+                "name": "Autorización para Información Médica.docx",
                 "items": []
               },
               {
-                "name": "Authorization for Release of OHIP.docx",
+                "name": "Autorización para la Divulgación de OHIP.docx",
+                "items": []
+
+
+              },
+              {
+                "name": "Prueba de Pérdida de Auto - Tractor Remolque.docx",
                 "items": []
               },
               {
-                "name": "Auto Proof of Loss - Tractor Trailer.docx",
+                "name": "Solicitud de Cheque de Aviva.docx",
                 "items": []
               },
               {
-                "name": "Aviva Cheque Request.docx",
+                "name": "Cuestionario de Lesiones Corporales.docx",
                 "items": []
               },
               {
-                "name": "Bodily Injury Questionnaire.docx",
+                "name": "Carta de Presentación Final.docx",
                 "items": []
               },
               {
-                "name": "Final Release Cover Letter.docx",
+                "name": "Carta de GIGG DERE.docx",
                 "items": []
               },
               {
-                "name": "GIGG DERE letter.docx",
-                "items": []
-              },
-              {
-                "name": "Letter Requesting Medical Information.docx",
+                "name": "Solicitud de Información Médica.docx",
                 "items": []
               },
               {
@@ -287,15 +289,15 @@
                 "items": []
               },
               {
-                "name": "Police Report Request.docx",
+                "name": "Solicitud de Informe Policial.docx",
                 "items": []
               },
               {
-                "name": "ROR General Form.docx",
+                "name": "Formulario General de ROR.docx",
                 "items": []
               },
               {
-                "name": "TPA Privacy Written Consent.docx",
+                "name": "Consentimiento por Escrito de Privacidad de TPA.docx",
                 "items": []
               }
             ]
@@ -304,104 +306,100 @@
             "name": "Motor",
             "items": [
               {
-                "name": "Conditional Testv2.docx",
+                "name": "PruebaCondicionalv2.docx",
                 "items": []
               },
               {
-                "name": "Level_1_Preliminary_Inspection_Output.docx",
+                "name": "Informe de Inspección Preliminar de Nivel 1.docx",
                 "items": []
               },
               {
-                "name": "Recipient.docx",
+                "name": "Destinatario.docx",
                 "items": []
               }
             ]
           },
           {
-            "name": "PhotoReport.docx",
+            "name": "InformeFotográfico.docx",
             "items": []
           },
           {
-            "name": "Property",
+            "name": "Propiedad",
             "items": [
               {
-                "name": "Letters",
+                "name": "Cartas",
                 "items": [
                   {
-                    "name": "AB TL - Send Files to TP Direct - Owner Retained.docx",
+                    "name": "AB TL - Enviar Archivos a TP Direct - Propietario Retenido.docx",
                     "items": []
                   },
                   {
-                    "name": "Airbnb HPI Report.docx",
+                    "name": "Informe HPI de Airbnb.docx",
                     "items": []
                   },
                   {
-                    "name": "Blank Letter -Claim Services.docx",
+                    "name": "Carta en Blanco - Servicios de Reclamaciones.docx",
                     "items": []
                   },
                   {
-                    "name": "Blank Letterhead - GTS.docx",
+                    "name": "Papel Membretado en Blanco - GTS.docx",
                     "items": []
                   },
                   {
-                    "name": "CMS Critical Path Letter.docx",
+                    "name": "Carta de Ruta Crítica - Agua No Cubierta.docx",
                     "items": []
                   },
                   {
-                    "name": "Critical Path Letter - Water No Covered.docx",
+                    "name": "Borrador de Carta de Negación de Propiedad.docx",
                     "items": []
                   },
                   {
-                    "name": "Draft Denial Letter Property.docx",
+                    "name": "Carta de Contaminación por Moho.docx",
                     "items": []
                   },
                   {
-                    "name": "Mold Contamination Letter.docx",
+                    "name": "Carta de No Reclamación.docx",
                     "items": []
                   },
                   {
-                    "name": "No Claim Letter.docx",
+                    "name": "Carta de Ruta Crítica de Vela.docx",
                     "items": []
                   },
                   {
-                    "name": "Sail critical path letter.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Subrogation Letter.docx",
+                    "name": "Carta de Subrogación.docx",
                     "items": []
                   }
                 ]
               },
               {
-                "name": "Reports",
+                "name": "Informes",
                 "items": [
                   {
-                    "name": "Atlas Mobile Prelim Report template.docx",
+                    "name": "Plantilla de Informe Preliminar Móvil Atlas.docx",
                     "items": []
                   },
                   {
-                    "name": "Basic Task Report Template.docx",
+                    "name": "Plantilla de Informe Básico de Tarea.docx",
                     "items": []
                   },
                   {
-                    "name": "Crawford Transportation Report - new July 2014.docx",
+                    "name": "Informe de Transporte Crawford - nuevo Julio 2014.docx",
                     "items": []
                   },
                   {
-                    "name": "Examiner Report - Property.docx",
+                    "name": "Informe de Examinador - Propiedad.docx",
                     "items": []
                   },
                   {
-                    "name": "Examiner's Report - Property - Lloyds.docx",
+                    "name": "Informe de Examinador - Propiedad - Lloyds.docx",
                     "items": []
                   },
                   {
-                    "name": "Property Full Report Template.docx",
+                    "name": "Plantilla de Informe Completo de Propiedad.docx",
                     "items": []
                   },
                   {
-                    "name": "Transportation Report.docx",
+                    "name": "Informe de Transporte.docx",
                     "items": []
                   }
                 ]
@@ -409,38 +407,38 @@
             ]
           },
           {
-            "name": "SmartSections",
+            "name": "SeccionesInteligentes",
             "items": [
               {
-                "name": "AdjusterSignature.docx",
+                "name": "FirmaAjustador.docx",
                 "items": []
               },
               {
-                "name": "BrokerNameAddress.docx",
+                "name": "NombreDirecciónCorredor.docx",
                 "items": []
               },
               {
-                "name": "ClaimantNameAddress.docx",
+                "name": "NombreDirecciónDemandante.docx",
                 "items": []
               },
               {
-                "name": "ClaimantsName.docx",
+                "name": "NombreDemandantes.docx",
                 "items": []
               },
               {
-                "name": "InsuredHeader.docx",
+                "name": "EncabezadoAsegurado.docx",
                 "items": []
               },
               {
-                "name": "InsuredName.docx",
+                "name": "NombreAsegurado.docx",
                 "items": []
               },
               {
-                "name": "InsuredNameAddress.docx",
+                "name": "NombreDirecciónAsegurado.docx",
                 "items": []
               },
               {
-                "name": "InsurerNameAddress.docx",
+                "name": "NombreDirecciónAsegurador.docx",
                 "items": []
               },
               {
@@ -448,36 +446,36 @@
                 "items": []
               },
               {
-                "name": "LogoCrawfordBlueR.docx",
+                "name": "LogoCrawfordAzulR.docx",
                 "items": []
               },
               {
-                "name": "LogoCrawfordBlurPrelim.docx",
+                "name": "LogoCrawfordAzulPrelim.docx",
                 "items": []
               },
               {
-                "name": "LogoCrawfordPhotoReport.docx",
+                "name": "LogoCrawfordInformeFotográfico.docx",
                 "items": []
               },
               {
-                "name": "LossAddress.docx",
+                "name": "DirecciónPérdida.docx",
                 "items": []
               },
               {
-                "name": "RecipientNameAddress.docx",
+                "name": "NombreDirecciónDestinatario.docx",
                 "items": []
               },
               {
-                "name": "StandardFooter_Canada.docx",
+                "name": "PieEstándar_Canadá.docx",
                 "items": []
               }
             ]
           },
           {
-            "name": "Test",
+            "name": "Prueba",
             "items": [
               {
-                "name": "0-TEST TEMPLATE.docx",
+                "name": "0-PLANTILLA DE PRUEBA.docx",
                 "items": []
               }
             ]
