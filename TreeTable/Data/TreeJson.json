@@ -3,118 +3,90 @@
     "name": "/",
     "items": [
       {
-        "name": "es-ES",
+        "name": "Main_Root",
         "items": [
           {
-            "name": "Automóvil",
+            "name": "First_Root",
             "items": [
               {
-                "name": "Informe de Primera Vez del Automóvil.docx",
+                "name": "First_Root_Inner_1",
                 "items": []
               },
               {
-                "name": "Informe de Estado del Automóvil.docx",
+                "name": "First_Root_Inner_2",
                 "items": []
               },
               {
-                "name": "Informe de Tarea del Automóvil.docx",
+                "name": "First_Root_Inner_3",
                 "items": []
               },
               {
-                "name": "Informe de Automóvil.docx",
+                "name": "First_Root_Inner_4",
                 "items": []
               }
             ]
           },
           {
-            "name": "Accidente",
+            "name": "Second_Root",
             "items": [
               {
-                "name": "Cartas",
+                "name": "Second_Root_Inner_1",
                 "items": [
                   {
-                    "name": "AB - Informe de Estado.docx",
+                    "name": "Second_Root_Inner_1_sub_1",
                     "items": []
                   },
                   {
-                    "name": "AB - Informe de Tarea.docx",
+                    "name": "Second_Root_Inner_1_sub_2",
                     "items": []
                   },
                   {
-                    "name": "AB TL - Retener Salvamento del Asegurado.docx",
+                    "name": "Second_Root_Inner_1_sub_3",
                     "items": []
                   },
                   {
-                    "name": "AB TL - al Corredor - Retener Salvamento.docx",
+                    "name": "Second_Root_Inner_1_sub_4",
                     "items": []
                   },
                   {
-                    "name": "Informe de Airbnb.docx",
+                    "name": "Second_Root_Inner_1_sub_5",
                     "items": []
                   },
                   {
-                    "name": "Carta de Cierre - Auto - Sin Lesiones.docx",
+                    "name": "Second_Root_Inner_1_sub_6",
                     "items": []
                   },
                   {
-                    "name": "Carta de Cierre - Auto - Sin Proseguir con la Reclamación.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Carta de Negación - Responsabilidad del Ocupante.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Carta de Negación - No Ocupante.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Carta de Liberación Final - Demandante.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Carta a Terceros.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Respuesta al Aviso de los Demandantes de Reclamación por Lesiones Corporales.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Respuesta al Aviso de los Abogados de Reclamación por Lesiones Corporales.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "Carta de Negación de Negligencia de Wal-Mart.docx",
+                    "name": "Second_Root_Inner_1_sub_7",
                     "items": []
                   }
                 ]
               },
               {
-                "name": "Informes",
+                "name": "Second_Root_Inner_2",
                 "items": [
                   {
-                    "name": "AB - Informe de Primera Vez.docx",
+                    "name": "Second_Root_Inner_2_sub_1",
                     "items": []
                   },
                   {
-                    "name": "Accidente - Informe de Estado.docx",
+                    "name": "Second_Root_Inner_2_sub_2",
                     "items": []
                   },
                   {
-                    "name": "Accidente - Informe de Tarea.docx",
+                    "name": "Second_Root_Inner_2_sub_3",
                     "items": []
                   },
                   {
-                    "name": "Informe Completo de Accidentes.docx",
+                    "name": "Second_Root_Inner_2_sub_4",
                     "items": []
                   },
                   {
-                    "name": "Informe del Examinador - Responsabilidad - Lloyds.docx",
+                    "name": "Second_Root_Inner_2_sub_5",
                     "items": []
                   },
                   {
-                    "name": "Informe de Pérdida Grande de TPA.docx",
+                    "name": "Second_Root_Inner_2_sub_6",
                     "items": []
                   }
                 ]
@@ -122,58 +94,58 @@
             ]
           },
           {
-            "name": "Desarrollo ",
+            "name": "Third_Root ",
             "items": [
               {
-                "name": "Des",
+                "name": "Third_Root_Inner_1",
                 "items": [
                   {
-                    "name": "Automóvil",
+                    "name": "Third_Root_Inner_1_Sub_1",
                     "items": []
                   },
                   {
-                    "name": "Accidente",
+                    "name": "Third_Root_Inner_1_Sub_2",
                     "items": [
                       {
-                        "name": "Cartas",
+                        "name": "Third_Root_Inner_1_Sub_2_1",
                         "items": []
                       },
                       {
-                        "name": "Informes",
+                        "name": "Third_Root_Inner_1_Sub_2_2",
                         "items": []
                       }
                     ]
                   },
                   {
-                    "name": "Formularios",
+                    "name": "Third_Root_Inner_1_Sub_3",
                     "items": []
                   },
                   {
-                    "name": "GTS",
+                    "name": "Third_Root_Inner_1_Sub_4",
                     "items": [
                       {
-                        "name": "Carta",
+                        "name": "Third_Root_Inner_1_Sub_4_1",
                         "items": []
                       },
                       {
-                        "name": "Propiedad",
+                        "name": "Third_Root_Inner_1_Sub_4_2",
                         "items": []
                       }
                     ]
                   },
                   {
-                    "name": "InformeFotográfico.docx",
+                    "name": "Third_Root_Inner_1_Sub_5",
                     "items": []
                   },
                   {
-                    "name": "Propiedad",
+                    "name": "Third_Root_Inner_1_Sub_6",
                     "items": [
                       {
-                        "name": "Cartas",
+                        "name": "Third_Root_Inner_1_Sub_6_1",
                         "items": []
                       },
                       {
-                        "name": "Informes",
+                        "name": "Third_Root_Inner_1_Sub_6_1",
                         "items": []
                       }
                     ]
@@ -181,38 +153,18 @@
                 ]
               },
               {
-                "name": "QA Aprobado",
+                "name": "Third_Root_Inner_2",
                 "items": []
               },
               {
-                "name": "QA",
+                "name": "Third_Root_Inner_3",
                 "items": [
                   {
-                    "name": "33. Carta de Ruta Crítica GTS.docx",
+                    "name": "Third_Root_Inner_3_Sub_1",
                     "items": []
                   },
                   {
-                    "name": "40. Carta de Policía.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "49. Carta de Ruta Crítica AB - PEI.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "50. Carta de Beneficio por Muerte AB - NFLD.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "51. Carta de Beneficio por Muerte AB SEF 48 - NS.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "56. Informe de Primera Vez sobre Propiedad GTS.docx",
-                    "items": []
-                  },
-                  {
-                    "name": "62. Plantilla de Negación en Blanco.docx",
+                    "name": "Third_Root_Inner_3_Sub_2",
                     "items": []
                   }
                 ]
@@ -220,186 +172,184 @@
             ]
           },
           {
-            "name": "Formularios",
+            "name": "Fourth_Root",
             "items": [
               {
-                "name": "Aviso de Acción 24H-Abr2021.docx",
+                "name": "Fourth_Root_Inner_1",
                 "items": []
               },
               {
-                "name": "Autorización - Entrar en las Instalaciones.docx",
+                "name": "Fourth_Root_Inner_2",
                 "items": []
               },
               {
-                "name": "Autorización - Divulgación de Información Laboral.docx",
+                "name": "Fourth_Root_Inner_3",
                 "items": []
               },
               {
-                "name": "Autorización - Divulgación de Historiales Médicos.docx",
+                "name": "Fourth_Root_Inner_4",
                 "items": []
               },
               {
-                "name": "Autorización - Divulgación de Historiales de la CNESST.docx",
+                "name": "Fourth_Root_Inner_5",
                 "items": []
               },
               {
-                "name": "Formulario de Autorización para Información Médica.docx",
+                "name": "Fourth_Root_Inner_6",
                 "items": []
               },
               {
-                "name": "Autorización para Información del Empleador.docx",
+                "name": "Fourth_Root_Inner_7",
                 "items": []
               },
               {
-                "name": "Autorización para Información Médica.docx",
+                "name": "Fourth_Root_Inner_8",
                 "items": []
               },
               {
-                "name": "Autorización para la Divulgación de OHIP.docx",
-                "items": []
-
-
-              },
-              {
-                "name": "Prueba de Pérdida de Auto - Tractor Remolque.docx",
+                "name": "Fourth_Root_Inner_9",
                 "items": []
               },
               {
-                "name": "Solicitud de Cheque de Aviva.docx",
+                "name": "Fourth_Root_Inner_10",
                 "items": []
               },
               {
-                "name": "Cuestionario de Lesiones Corporales.docx",
+                "name": "Fourth_Root_Inner_11",
                 "items": []
               },
               {
-                "name": "Carta de Presentación Final.docx",
+                "name": "Fourth_Root_Inner_12",
                 "items": []
               },
               {
-                "name": "Carta de GIGG DERE.docx",
+                "name": "Fourth_Root_Inner_13",
                 "items": []
               },
               {
-                "name": "Solicitud de Información Médica.docx",
+                "name": "Fourth_Root_Inner_14",
                 "items": []
               },
               {
-                "name": "PIPEDA - General.docx",
+                "name": "Fourth_Root_Inner_15",
                 "items": []
               },
               {
-                "name": "Solicitud de Informe Policial.docx",
+                "name": "Fourth_Root_Inner_16",
                 "items": []
               },
               {
-                "name": "Formulario General de ROR.docx",
+                "name": "Fourth_Root_Inner_17",
                 "items": []
               },
               {
-                "name": "Consentimiento por Escrito de Privacidad de TPA.docx",
+                "name": "Fourth_Root_Inner_18",
+                "items": []
+              },
+              {
+                "name": "Fourth_Root_Inner_19",
                 "items": []
               }
             ]
           },
           {
-            "name": "Motor",
+            "name": "Fivth_Root",
             "items": [
               {
-                "name": "PruebaCondicionalv2.docx",
+                "name": "Fivth_Root_Inner_1",
                 "items": []
               },
               {
-                "name": "Informe de Inspección Preliminar de Nivel 1.docx",
+                "name": "Fivth_Root_Inner_2",
                 "items": []
               },
               {
-                "name": "Destinatario.docx",
+                "name": "Fivth_Root_Inner_3",
                 "items": []
               }
             ]
           },
           {
-            "name": "InformeFotográfico.docx",
-            "items": []
-          },
-          {
-            "name": "Propiedad",
+            "name": "Six_Root",
             "items": [
               {
-                "name": "Cartas",
+                "name": "Six_Root_Inner_1",
                 "items": [
                   {
-                    "name": "AB TL - Enviar Archivos a TP Direct - Propietario Retenido.docx",
+                    "name": "Six_Root_Inner_1_Sub_1",
                     "items": []
                   },
                   {
-                    "name": "Informe HPI de Airbnb.docx",
+                    "name": "Six_Root_Inner_1_Sub_2",
                     "items": []
                   },
                   {
-                    "name": "Carta en Blanco - Servicios de Reclamaciones.docx",
+                    "name": "Six_Root_Inner_1_Sub_3",
                     "items": []
                   },
                   {
-                    "name": "Papel Membretado en Blanco - GTS.docx",
+                    "name": "Six_Root_Inner_1_Sub_4",
                     "items": []
                   },
                   {
-                    "name": "Carta de Ruta Crítica - Agua No Cubierta.docx",
+                    "name": "Six_Root_Inner_1_Sub_5",
                     "items": []
                   },
                   {
-                    "name": "Borrador de Carta de Negación de Propiedad.docx",
+                    "name": "Six_Root_Inner_1_Sub_6",
                     "items": []
                   },
                   {
-                    "name": "Carta de Contaminación por Moho.docx",
+                    "name": "Six_Root_Inner_1_Sub_7",
                     "items": []
                   },
                   {
-                    "name": "Carta de No Reclamación.docx",
+                    "name": "Six_Root_Inner_1_Sub_8",
                     "items": []
                   },
                   {
-                    "name": "Carta de Ruta Crítica de Vela.docx",
+                    "name": "Six_Root_Inner_1_Sub_9",
                     "items": []
                   },
                   {
-                    "name": "Carta de Subrogación.docx",
+                    "name": "Six_Root_Inner_1_Sub_10",
+                    "items": []
+                  },
+                  {
+                    "name": "Six_Root_Inner_1_Sub_11",
                     "items": []
                   }
                 ]
               },
               {
-                "name": "Informes",
+                "name": "Six_Root_Inner_2",
                 "items": [
                   {
-                    "name": "Plantilla de Informe Preliminar Móvil Atlas.docx",
+                    "name": "Six_Root_Inner_2_Sub_1",
                     "items": []
                   },
                   {
-                    "name": "Plantilla de Informe Básico de Tarea.docx",
+                    "name": "Six_Root_Inner_2_Sub_2",
                     "items": []
                   },
                   {
-                    "name": "Informe de Transporte Crawford - nuevo Julio 2014.docx",
+                    "name": "Six_Root_Inner_2_Sub_3",
                     "items": []
                   },
                   {
-                    "name": "Informe de Examinador - Propiedad.docx",
+                    "name": "Six_Root_Inner_2_Sub_4",
                     "items": []
                   },
                   {
-                    "name": "Informe de Examinador - Propiedad - Lloyds.docx",
+                    "name": "Six_Root_Inner_2_Sub_4",
                     "items": []
                   },
                   {
-                    "name": "Plantilla de Informe Completo de Propiedad.docx",
+                    "name": "Six_Root_Inner_2_Sub_5",
                     "items": []
                   },
                   {
-                    "name": "Informe de Transporte.docx",
+                    "name": "Six_Root_Inner_2_Sub_6",
                     "items": []
                   }
                 ]
@@ -407,75 +357,75 @@
             ]
           },
           {
-            "name": "SeccionesInteligentes",
+            "name": "Seven_Root",
             "items": [
               {
-                "name": "FirmaAjustador.docx",
+                "name": "Seven_Root_Inner_1",
                 "items": []
               },
               {
-                "name": "NombreDirecciónCorredor.docx",
+                "name": "Seven_Root_Inner_2",
                 "items": []
               },
               {
-                "name": "NombreDirecciónDemandante.docx",
+                "name": "Seven_Root_Inner_3",
                 "items": []
               },
               {
-                "name": "NombreDemandantes.docx",
+                "name": "Seven_Root_Inner_4",
                 "items": []
               },
               {
-                "name": "EncabezadoAsegurado.docx",
+                "name": "Seven_Root_Inner_5",
                 "items": []
               },
               {
-                "name": "NombreAsegurado.docx",
+                "name": "Seven_Root_Inner_6",
                 "items": []
               },
               {
-                "name": "NombreDirecciónAsegurado.docx",
+                "name": "Seven_Root_Inner_7",
                 "items": []
               },
               {
-                "name": "NombreDirecciónAsegurador.docx",
+                "name": "Seven_Root_Inner_8",
                 "items": []
               },
               {
-                "name": "KKTEMP.docx",
+                "name": "Seven_Root_Inner_9",
                 "items": []
               },
               {
-                "name": "LogoCrawfordAzulR.docx",
+                "name": "Seven_Root_Inner_10",
                 "items": []
               },
               {
-                "name": "LogoCrawfordAzulPrelim.docx",
+                "name": "Seven_Root_Inner_11",
                 "items": []
               },
               {
-                "name": "LogoCrawfordInformeFotográfico.docx",
+                "name": "Seven_Root_Inner_12",
                 "items": []
               },
               {
-                "name": "DirecciónPérdida.docx",
+                "name": "Seven_Root_Inner_13",
                 "items": []
               },
               {
-                "name": "NombreDirecciónDestinatario.docx",
+                "name": "Seven_Root_Inner_14",
                 "items": []
               },
               {
-                "name": "PieEstándar_Canadá.docx",
+                "name": "Seven_Root_Inner_15",
                 "items": []
               }
             ]
           },
           {
-            "name": "Prueba",
+            "name": "Eight_Root",
             "items": [
               {
-                "name": "0-PLANTILLA DE PRUEBA.docx",
+                "name": "Eight_Root_Inner_1",
                 "items": []
               }
             ]
@@ -485,3 +435,4 @@
     ]
   }
 }
+

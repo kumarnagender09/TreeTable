@@ -27,6 +27,18 @@ class TreeViewController: UITableViewController {
         
         rootNodes = items.map { parseNode($0) }
     }
+    func parseNode(_ json: [String: Any], parent: TreeNode? = nil, depth: Int = 0) -> TreeNode {
+        // Parse the JSON dictionary to extract the node's name and items
+        guard let name = json["name"] as? String,
+              let items = json["items"] as? [[String: Any]] else {
+            // If name or items are missing or not in the expected format, return a TreeNode with default values
+            return TreeNode(name: "", isExpanded: false, items: [], parent: parent, depth: depth)
+        }
+        // Recursively parse the children nodes
+        let children = items.map { parseNode($0, parent: TreeNode(name: name, isExpanded: false, items: [], parent: parent, depth: depth + 1), depth: depth + 1) }
+        // Create and return a TreeNode with the parsed values
+        return TreeNode(name: name, isExpanded: false, items: children, parent: parent, depth: depth)
+    }
     
 
     override func numberOfSections(in tableView: UITableView) -> Int {
@@ -51,6 +63,8 @@ class TreeViewController: UITableViewController {
             cell.disclosureButton?.isHidden = false
             let imageName = node.isExpanded ? "minus" : "plus"
             cell.disclosureButton?.setImage(UIImage(named: imageName), for: .normal)
+            cell.disclosureButton?.tintColor = UIColor.red // Set your desired color here
+
         }
         
         cell.disclosureButtonTapAction = {
@@ -63,26 +77,6 @@ class TreeViewController: UITableViewController {
         return cell
     }
 
-
-
-
-
-
-
-
-
-    func parseNode(_ json: [String: Any], parent: TreeNode? = nil, depth: Int = 0) -> TreeNode {
-        // Parse the JSON dictionary to extract the node's name and items
-        guard let name = json["name"] as? String,
-              let items = json["items"] as? [[String: Any]] else {
-            // If name or items are missing or not in the expected format, return a TreeNode with default values
-            return TreeNode(name: "", isExpanded: false, items: [], parent: parent, depth: depth)
-        }
-        // Recursively parse the children nodes
-        let children = items.map { parseNode($0, parent: TreeNode(name: name, isExpanded: false, items: [], parent: parent, depth: depth + 1), depth: depth + 1) }
-        // Create and return a TreeNode with the parsed values
-        return TreeNode(name: name, isExpanded: false, items: children, parent: parent, depth: depth)
-    }
 
 //This function is used to toggle the expansion state of a node in a tree-like structure displayed in a table view.
     func toggleNode(at indexPath: IndexPath) {
