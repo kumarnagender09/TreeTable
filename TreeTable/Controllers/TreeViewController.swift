@@ -109,13 +109,18 @@ class TreeViewController: UITableViewController {
             //Initializes an empty array to store the index paths of the inserted rows.
             var removedNodes = [TreeNode]()
             //Iterates over the children nodes of the expanded node
-            for (index, item) in rootNodes.enumerated() {
-                if let parent = item.parent, parent == node {
-                    //Adds the index path of each inserted row to the indexPaths array.
-                    removedIndexPaths.append(IndexPath(row: index, section: indexPath.section))
-                    removedNodes.append(item)
+            func removeChildren(for parentNode: TreeNode) {
+                // Recursively remove children
+                for (index, item) in rootNodes.enumerated() {
+                    if let parent = item.parent, parent == parentNode {
+                        //Adds the index path of each inserted row to the indexPaths array.
+                        removedIndexPaths.append(IndexPath(row: index, section: indexPath.section))
+                        removedNodes.append(item)
+                        removeChildren(for: item)
+                    }
                 }
             }
+            removeChildren(for: node)
             rootNodes.removeAll(where: { removedNodes.contains($0) })
             // Delete the rows from the table view
             tableView.deleteRows(at: removedIndexPaths, with: .automatic)
@@ -123,6 +128,7 @@ class TreeViewController: UITableViewController {
         // End table view updates
         tableView.endUpdates()
     }
+
 
 }
 
