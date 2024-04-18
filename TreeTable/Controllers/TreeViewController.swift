@@ -67,6 +67,7 @@ class TreeViewController: UITableViewController {
 
         }
         
+
         cell.disclosureButtonTapAction = {
             self.toggleNode(at: indexPath)
         }
@@ -84,11 +85,12 @@ class TreeViewController: UITableViewController {
         let node = rootNodes[indexPath.row]
         // Toggle the isExpanded property of the node
         node.isExpanded.toggle()
+
         // Begin table view updates
         tableView.beginUpdates()
+
         if node.isExpanded {
-            // Update your data source to include the children of the expanded node.
-            // If the node is expanded, insert its children into the data source
+            // Update your data source to include the children of the expanded node
             rootNodes.insert(contentsOf: node.items, at: indexPath.row + 1)
 
             // Set the parent for the inserted nodes
@@ -96,38 +98,43 @@ class TreeViewController: UITableViewController {
 
             // Create an array of index paths for the inserted rows
             var indexPaths = [IndexPath]()
-            //iterates over the children nodes of the expanded node.
             for i in 0..<node.items.count {
                 indexPaths.append(IndexPath(row: indexPath.row + 1 + i, section: indexPath.section))
             }
+
             // Insert the rows into the table view
             tableView.insertRows(at: indexPaths, with: .automatic)
         } else {
             // Update your data source to remove the children of the collapsed node
-            // If the node is collapsed, remove its children from the data source
             var removedIndexPaths = [IndexPath]()
-            //Initializes an empty array to store the index paths of the inserted rows.
             var removedNodes = [TreeNode]()
-            //Iterates over the children nodes of the expanded node
+
             func removeChildren(for parentNode: TreeNode) {
-                // Recursively remove children
                 for (index, item) in rootNodes.enumerated() {
                     if let parent = item.parent, parent == parentNode {
-                        //Adds the index path of each inserted row to the indexPaths array.
                         removedIndexPaths.append(IndexPath(row: index, section: indexPath.section))
                         removedNodes.append(item)
                         removeChildren(for: item)
                     }
                 }
             }
+
             removeChildren(for: node)
             rootNodes.removeAll(where: { removedNodes.contains($0) })
+
             // Delete the rows from the table view
             tableView.deleteRows(at: removedIndexPaths, with: .automatic)
         }
+
         // End table view updates
         tableView.endUpdates()
+
+        // Smoothly reload visible rows
+        let visibleIndexPaths = tableView.indexPathsForVisibleRows ?? []
+        let updatedIndexPaths = Set(visibleIndexPaths).subtracting(Set([indexPath]))
+        tableView.reloadRows(at: Array(updatedIndexPaths), with: .automatic)
     }
+
 
 
 }
